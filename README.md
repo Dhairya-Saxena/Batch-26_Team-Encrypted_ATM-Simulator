@@ -163,8 +163,6 @@ flowchart TD
     M --> G
 ```
 
-> GitHub renders the Mermaid diagram above automatically. For `flowchart.png`, export it from <https://mermaid.live> and save it in the repo root.
-
 ---
 
 ## 6. C Programming Concepts Used
