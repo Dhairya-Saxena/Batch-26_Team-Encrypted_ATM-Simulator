@@ -190,7 +190,7 @@ flowchart TD
 
 ```bash
 # Compile
-gcc -Wall -Wextra -std=c99 -o atm atm_simulator.c
+gcc atm.c -o atm
 
 # Run (Linux / macOS / Git Bash)
 ./atm
